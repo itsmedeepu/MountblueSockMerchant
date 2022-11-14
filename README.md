@@ -28,8 +28,8 @@ Output Format
 Return the total number of matching pairs of socks that John can sell.
 
 Sample Input
-9
-10 20 20 10 10 30 50 10 20
+<p>9</p>
+<p> 10 20 20 10 10 30 50 10 20</p>
 
 Sample Ouput
-3
+<p>3</p>
